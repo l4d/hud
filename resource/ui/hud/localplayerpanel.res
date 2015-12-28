@@ -1,0 +1,153 @@
+"Resource/UI/HUD/LocalPlayerPanel.res"
+{
+   "BackgroundImage"
+	{
+		"ControlName"	"Panel"
+		"fieldName"		"BackgroundImage"
+		"xpos"			"1"
+		"ypos"			"9"
+		"wide"			"100"
+		"tall"			"30"
+		"visible"		"1"
+		"enabled"		"1"
+		"scaleImage"	"1"
+		"image"			"hud/healthbar_bg_4"
+		"zpos"			"-3"
+				"PaintBackgroundType" "4"
+		"bgcolor_override" "0 0 0 220"
+	}
+	"Name"
+	{
+		"ControlName"	"Label"
+		"fieldName"		"Name"
+		"xpos"			"40"
+		"ypos"			"41"
+		"wide"			"61"
+		"tall"			"12"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		""
+		"textAlignment"	"west"
+		"font"			"PlayerDisplayName"
+		"zpos"			"3"
+		"fgcolor_override" "White"
+
+	}
+
+	"Head"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"Head"
+		"xpos"			"8"
+		"ypos"			"15"
+		"wide"			"28"
+		"tall"			"14"
+		"visible"		"1"
+		"enabled"		"1"
+		"scaleImage"	"1"
+	}
+
+	"DuckingIcon"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"DuckingIcon"
+		"xpos"			"96"
+		"ypos"			"32"
+		"wide"			"25"
+		"tall"			"0"
+		"zpos"			"2"
+		"visible"		"1"
+		"enabled"		"1"
+		"scaleImage"	"1"
+		"image"			"hud/crouch_survivor"
+	}
+
+	"Incapacitated"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"Incapacitated"
+		"xpos"			"0"
+		"ypos"			"15"
+		"wide"			"113"
+		"tall"			"14"
+		"visible"		"1"
+		"enabled"		"1"
+		"scaleImage"	"1"
+		"zpos"			"2"
+	}
+	"Health"
+	{
+		"ControlName"	"HealthPanel"
+		"fieldName"		"Health"
+		"xpos"			"2"
+		"ypos"			"33"
+		"wide"			"102"
+		"tall"			"7"
+		"visible"		"1"
+		"enabled"		"1"
+		"zpos"			"1"
+	}
+	"HealthbarTextureBottom"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"HealthbarTextureBottom"
+		"xpos"			"26"
+		"ypos"			"78"
+		"wide"			"0"
+		"tall"			"20"
+		"visible"		"1"
+		"enabled"		"1"
+		"scaleImage"	"1"
+		"image"			"../vgui/hud/detail_scratches_bottom_1"
+		"zpos"			"-3"
+	}
+	"HealthIcon"
+	{
+		"ControlName"	"Label"
+		"fieldName"		"HealthIcon"
+		"xpos"			"26"
+		"ypos"			"48"
+		"wide"			"70"
+		"tall"			"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		","
+		"textAlignment"	"west"
+		"font"			"L4D_Icons"
+		"zpos"			"2"
+	}
+
+	"HealthNumber"
+	{
+		"ControlName"	"Label"
+		"fieldName"		"HealthNumber"
+		"xpos"			"7"
+		"ypos"			"41"
+		"wide"			"28"
+		"tall"			"13"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"%HealthNumber%"
+		"textAlignment"	"center"
+		"font"			"PlayerDisplayName"
+		"zpos"			"1"
+	}
+
+	"Items"
+	{
+		"ControlName"	"Label"
+		"fieldName"		"Items"
+		"xpos"			"0"
+		"ypos"          "4"
+		"wide"			"142"
+		"tall"			"36"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		""
+		"textAlignment"	"center"
+		"font"			"L4D_Icons_medium"
+		"zpos"			"2"
+		"fgcolor_override" "255 255 255 255"
+
+	}
+}
