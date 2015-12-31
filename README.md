@@ -9,3 +9,5 @@ This is a HUD modification for the original Left 4 Dead game. This is a work in 
 When is the next update? How long is this project going to take? I dunno.
 
 Check out my [Hidden Console Variables](http://steamcommunity.com/sharedfiles/filedetails/?id=564185677) guide on Steam.
+
+Project inspiration: [Google's Material Design](https://www.google.com/design/spec/material-design/introduction.html), [Microsoft's Modern Design](https://www.microsoft.com/en-us/stories/design/), [ink HUD](http://www.gamemaps.com/details/13434) and  [Omgot](http://steamcommunity.com/id/thankyou)
