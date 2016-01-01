@@ -1,4 +1,4 @@
-**Left 4 Dead HUD**
+**Left 4 Dead HUD by Jeffrey**
 -------------------
 This is a HUD modification for the original Left 4 Dead game. This is a work in progress project and will eventually overhaul a large portion of the hud and ui elements in the game.
 
