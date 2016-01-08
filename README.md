@@ -3,7 +3,7 @@
 This is a HUD modification for the original Left 4 Dead. This is a work in progress project and will eventually overhaul a large portion of the hud and ui elements in the game.
 
 1. The [wiki](https://github.com/l4d/hud/wiki) has install instructions, configuration, update log, and screenshots.
-2. Don't add me for personal support. If you want to notify me of an issue, have an issue, want to provide suggestions or feedback, create an [issue ticket](https://github.com/l4d/hud/issues).  Nothing personal, but it's better this way so everyone can see the responses.
+2. Don't add me for personal support. If you want to notify me of an issue, have an issue, want to provide suggestions or feedback, create an [issue ticket](https://github.com/l4d/hud/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen%3Bclosed).  Nothing personal, but it's better this way so everyone can see the responses.
 
 
 When is the next update? How long is this project going to take? I dunno.
