@@ -1,6 +1,6 @@
 
 
-<big><big><big>**Left 4 Dead HUD** </big></big></big>
+<big><big><big>**Left 4 Dead HUD** by jeffrey </big></big></big>
 
 **[Download](https://github.com/l4d/hud/archive/master.zip)         [Screenshots](https://github.com/l4d/hud/wiki/Screenshots)          [Instructions](https://github.com/l4d/hud/wiki)          [Customization](https://github.com/l4d/hud/wiki/Modification)          [Update Notes](https://github.com/l4d/hud/wiki/Update-Notes)          [Issues](https://github.com/l4d/hud/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen%3Bclosed)**
 
