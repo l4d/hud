@@ -1,13 +1,13 @@
-**Left 4 Dead HUD**
--------------------
-This is a HUD modification for the original Left 4 Dead. This is a work in progress project and will eventually overhaul a large portion of the hud and ui elements in the game.
-
-1. The [wiki](https://github.com/l4d/hud/wiki) has install instructions, configuration, update log, and screenshots.
-2. Don't add me for personal support. If you want to notify me of an issue, have an issue, want to provide suggestions or feedback, create an [issue ticket](https://github.com/l4d/hud/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen%3Bclosed).  Nothing personal, but it's better this way so everyone can see the responses.
 
 
-When is the next update? How long is this project going to take? I dunno.
+<big><big><big>**Left 4 Dead HUD** </big></big></big>
 
-Check out my [Hidden Console Variables](http://steamcommunity.com/sharedfiles/filedetails/?id=564185677) guide on Steam.
+**[Download](https://github.com/l4d/hud/archive/master.zip)         [Screenshots](https://github.com/l4d/hud/wiki/Screenshots)          [Instructions](https://github.com/l4d/hud/wiki)          [Customization](https://github.com/l4d/hud/wiki/Modification)          [Update Notes](https://github.com/l4d/hud/wiki/Update-Notes)          [Issues](https://github.com/l4d/hud/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen%3Bclosed)**
 
-Project inspiration: [Google's Material Design](https://www.google.com/design/spec/material-design/introduction.html), [Microsoft's Modern Design](https://www.microsoft.com/en-us/stories/design/), [ink HUD](http://www.gamemaps.com/details/13434), and  [Omgot's](http://steamcommunity.com/id/thankyou) mods.
+
+This is a custom heads-up display for the original Left 4 Dead game. This is a work in progress project and will eventually modify a large portion of the current hud and ui elements with my own iterations.
+
+If you want to notify me of an issue, need help, or want to provide feedback, please create an [issue thread](https://github.com/l4d/hud/issues).  
+
+
+<small><small><small>Check out my [Hidden Console Variables](http://steamcommunity.com/sharedfiles/filedetails/?id=564185677) guide on Steam.</small></small></small>
