@@ -11,5 +11,4 @@ If you want to notify me of an issue, need help, or want to provide feedback, pl
 
 
 <sub>Check out my [Hidden Console Variables](http://steamcommunity.com/sharedfiles/filedetails/?id=564185677) guide on Steam.</sub>
-
 <sub>Project inspiration: [Google's Material Design](https://www.google.com/design/spec/material-design/introduction.html), [Microsoft's Modern Design](https://www.microsoft.com/en-us/stories/design/), [ink HUD](http://www.gamemaps.com/details/13434) and  [Omgot's](http://steamcommunity.com/id/thankyou) mods.</sub>
