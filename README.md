@@ -7,7 +7,7 @@
 
 This is a custom heads-up display for the original Left 4 Dead game. This is a work in progress project and will eventually modify a large portion of the current hud and ui elements with my own iterations.
 
-If you want to notify me of an issue, need help, or want to provide feedback, please create an [issue thread](https://github.com/l4d/hud/issues).  
+If you want to notify me of an issue, need help, or want to provide feedback, please create an [issue thread](https://github.com/l4d/hud/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen%3Aclosed).  
 
 
 <sub>Check out my [Hidden Console Variables](http://steamcommunity.com/sharedfiles/filedetails/?id=564185677) guide on Steam.</sub>
