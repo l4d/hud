@@ -318,6 +318,247 @@ Scheme
 		// if a font fails to load then the subsequent fonts will replace
 		//
 		// Trade Gothic seems to work best at 11pt and at larger than 14.
+				//xhair sizes
+		"xhair1"
+		{
+			"1"
+			{
+				"name"		"jeffrey"
+				"tall"		"1"
+				"weight"	"400"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		"xhair2"
+		{
+			"1"
+			{
+				"name"		"jeffrey"
+				"tall"		"2"
+				"weight"	"400"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		"xhair3"
+		{
+			"1"
+			{
+				"name"		"jeffrey"
+				"tall"		"3"
+				"weight"	"400"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		"xhair4"
+		{
+			"1"
+			{
+				"name"		"jeffrey"
+				"tall"		"4"
+				"weight"	"400"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		"xhair5"
+		{
+			"1"
+			{
+				"name"		"jeffrey"
+				"tall"		"5"
+				"weight"	"400"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		"xhair6"
+		{
+			"1"
+			{
+				"name"		"jeffrey"
+				"tall"		"6"
+				"weight"	"400"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		"xhair7"
+		{
+			"1"
+			{
+				"name"		"jeffrey"
+				"tall"		"7"
+				"weight"	"400"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		"xhair8"
+		{
+			"1"
+			{
+				"name"		"jeffrey"
+				"tall"		"8"
+				"weight"	"400"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		"xhair9"
+		{
+			"1"
+			{
+				"name"		"jeffrey"
+				"tall"		"9"
+				"weight"	"400"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		"xhair10"
+		{
+			"1"
+			{
+				"name"		"jeffrey"
+				"tall"		"10"
+				"weight"	"400"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		"xhair11"
+		{
+			"1"
+			{
+				"name"		"jeffrey"
+				"tall"		"11"
+				"weight"	"400"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		"xhair12"
+		{
+			"1"
+			{
+				"name"		"jeffrey"
+				"tall"		"12"
+				"weight"	"400"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		"xhair13"
+		{
+			"1"
+			{
+				"name"		"jeffrey"
+				"tall"		"13"
+				"weight"	"400"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		"xhair14"
+		{
+			"1"
+			{
+				"name"		"jeffrey"
+				"tall"		"14"
+				"weight"	"400"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		"xhair15"
+		{
+			"1"
+			{
+				"name"		"jeffrey"
+				"tall"		"15"
+				"weight"	"400"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		"xhair16"
+		{
+			"1"
+			{
+				"name"		"jeffrey"
+				"tall"		"16"
+				"weight"	"400"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		"xhair17"
+		{
+			"1"
+			{
+				"name"		"jeffrey"
+				"tall"		"17"
+				"weight"	"400"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		"xhair18"
+		{
+			"1"
+			{
+				"name"		"jeffrey"
+				"tall"		"18"
+				"weight"	"400"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		"xhair19"
+		{
+			"1"
+			{
+				"name"		"jeffrey"
+				"tall"		"19"
+				"weight"	"400"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		"xhair20"
+		{
+			"1"
+			{
+				"name"		"jeffrey"
+				"tall"		"20"
+				"weight"	"400"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
 		"Default"
 		{
 			"1"
@@ -698,51 +939,49 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Trade Gothic"
-				"tall"		"19"
+				"name"		"Tahoma"
+				"tall"		"26"
 				"weight"	"500"
-				"antialias" "1"
 			}
 		}
 		"CloseCaption_Italic"
 		{
 			"1"
 			{
-				"name"		"Trade Gothic"
-				"tall"		"19"
+				"name"		"Tahoma"
+				"tall"		"26"
 				"weight"	"500"
-				"antialias" "1"
+				"italic"	"1"
 			}
 		}
 		"CloseCaption_Bold"
 		{
 			"1"
 			{
-				"name"		"Trade Gothic"
-				"tall"		"19"
-				"weight"	"500"
-				"antialias" "1"
+				"name"		"Tahoma"
+				"tall"		"26"
+				"weight"	"900"
 			}
 		}
 		"CloseCaption_BoldItalic"
 		{
 			"1"
 			{
-				"name"		"Trade Gothic"
-				"tall"		"19"
-				"weight"	"500"
-				"antialias" "1"
+				"name"		"Tahoma"
+				"tall"		"26"
+				"weight"	"900"
+				"italic"	"1"
 			}
 		}
 		"CloseCaption_Small"
 		{
 			"1"
 			{
-				"name"		"Trade Gothic"
-				"tall"		"4"
-				"weight"	"500"
-				"antialias" "1"
-				"yres"		"1 1280"
+				"name"		"Tahoma"
+				"tall"		"16"
+				"tall_hidef"	"24"
+				"weight"	"900"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}
 		// this is the symbol font
@@ -878,103 +1117,7 @@ Scheme
 				"custom"	"1"
 			}
 		}
-		"xhair1"
-		{
-			"1"
-			{
-				"name"		"jeffrey"
-				"tall"		"1"
-				"weight"	"400"
-				"range"		"0x0000 0x007F"	//	Basic Latin
-				"antialias" "1"
-				"additive"	"0"
-			}
-		}
-		"xhair2"
-		{
-			"1"
-			{
-				"name"		"jeffrey"
-				"tall"		"2"
-				"weight"	"400"
-				"range"		"0x0000 0x007F"	//	Basic Latin
-				"antialias" "1"
-				"additive"	"0"
-			}
-		}
-		"xhair3"
-		{
-			"1"
-			{
-				"name"		"jeffrey"
-				"tall"		"3"
-				"weight"	"400"
-				"range"		"0x0000 0x007F"	//	Basic Latin
-				"antialias" "1"
-				"additive"	"0"
-			}
-		}
-		"xhair4"
-		{
-			"1"
-			{
-				"name"		"jeffrey"
-				"tall"		"4"
-				"weight"	"400"
-				"range"		"0x0000 0x007F"	//	Basic Latin
-				"antialias" "1"
-				"additive"	"0"
-			}
-		}
-		"xhair5"
-		{
-			"1"
-			{
-				"name"		"jeffrey"
-				"tall"		"5"
-				"weight"	"400"
-				"range"		"0x0000 0x007F"	//	Basic Latin
-				"antialias" "1"
-				"additive"	"0"
-			}
-		}
-		"xhair6"
-		{
-			"1"
-			{
-				"name"		"jeffrey"
-				"tall"		"6"
-				"weight"	"400"
-				"range"		"0x0000 0x007F"	//	Basic Latin
-				"antialias" "1"
-				"additive"	"0"
-			}
-		}
-		"xhair7"
-		{
-			"1"
-			{
-				"name"		"jeffrey"
-				"tall"		"7"
-				"weight"	"400"
-				"range"		"0x0000 0x007F"	//	Basic Latin
-				"antialias" "1"
-				"additive"	"0"
-			}
-		}
-		"xhair8"
-		{
-			"1"
-			{
-				"name"		"jeffrey"
-				"tall"		"8"
-				"weight"	"400"
-				"range"		"0x0000 0x007F"	//	Basic Latin
-				"antialias" "1"
-				"additive"	"0"
-			}
-		}
-		"xhair9"
+		"L4D_Icons"
 		{
 			"1"
 			{
@@ -984,152 +1127,6 @@ Scheme
 				"range"		"0x0000 0x007F"	//	Basic Latin
 				"antialias" "1"
 				"additive"	"0"
-			}
-		}
-		"xhair10"
-		{
-			"1"
-			{
-				"name"		"jeffrey"
-				"tall"		"10"
-				"weight"	"400"
-				"range"		"0x0000 0x007F"	//	Basic Latin
-				"antialias" "1"
-				"additive"	"0"
-			}
-		}
-		"xhair11"
-		{
-			"1"
-			{
-				"name"		"jeffrey"
-				"tall"		"11"
-				"weight"	"400"
-				"range"		"0x0000 0x007F"	//	Basic Latin
-				"antialias" "1"
-				"additive"	"0"
-			}
-		}
-		"xhair12"
-		{
-			"1"
-			{
-				"name"		"jeffrey"
-				"tall"		"12"
-				"weight"	"400"
-				"range"		"0x0000 0x007F"	//	Basic Latin
-				"antialias" "1"
-				"additive"	"0"
-			}
-		}
-		"xhair13"
-		{
-			"1"
-			{
-				"name"		"jeffrey"
-				"tall"		"13"
-				"weight"	"400"
-				"range"		"0x0000 0x007F"	//	Basic Latin
-				"antialias" "1"
-				"additive"	"0"
-			}
-		}
-		"xhair14"
-		{
-			"1"
-			{
-				"name"		"jeffrey"
-				"tall"		"14"
-				"weight"	"400"
-				"range"		"0x0000 0x007F"	//	Basic Latin
-				"antialias" "1"
-				"additive"	"0"
-			}
-		}
-		"xhair15"
-		{
-			"1"
-			{
-				"name"		"jeffrey"
-				"tall"		"15"
-				"weight"	"400"
-				"range"		"0x0000 0x007F"	//	Basic Latin
-				"antialias" "1"
-				"additive"	"0"
-			}
-		}
-		"xhair16"
-		{
-			"1"
-			{
-				"name"		"jeffrey"
-				"tall"		"16"
-				"weight"	"400"
-				"range"		"0x0000 0x007F"	//	Basic Latin
-				"antialias" "1"
-				"additive"	"0"
-			}
-		}
-		"xhair17"
-		{
-			"1"
-			{
-				"name"		"jeffrey"
-				"tall"		"17"
-				"weight"	"400"
-				"range"		"0x0000 0x007F"	//	Basic Latin
-				"antialias" "1"
-				"additive"	"0"
-			}
-		}
-		"xhair18"
-		{
-			"1"
-			{
-				"name"		"jeffrey"
-				"tall"		"18"
-				"weight"	"400"
-				"range"		"0x0000 0x007F"	//	Basic Latin
-				"antialias" "1"
-				"additive"	"0"
-			}
-		}
-		"xhair19"
-		{
-			"1"
-			{
-				"name"		"jeffrey"
-				"tall"		"19"
-				"weight"	"400"
-				"range"		"0x0000 0x007F"	//	Basic Latin
-				"antialias" "1"
-				"additive"	"0"
-			}
-		}
-		"xhair20"
-		{
-			"1"
-			{
-				"name"		"jeffrey"
-				"tall"		"20"
-				"weight"	"400"
-				"range"		"0x0000 0x007F"	//	Basic Latin
-				"antialias" "1"
-				"additive"	"0"
-			}
-		}
-
-		"L4D_Icons"
-		{
-			"1"
-			{
-				"name"		"jeffrey"
-				"tall"		"8"
-				"weight"	"0"
-				"range"		"0x0000 0x007F"	//	Basic Latin
-				"antialias" "1"
-				"additive"	"0"
-
 			}
 		}
 		"L4D_Icons_medium"
@@ -1149,32 +1146,8 @@ Scheme
 			"1"
 			{
 				"name"		"jeffrey"
-				"tall"		"10"
+				"tall"		"13"
 				"weight"	"400"
-				"range"		"0x0000 0x007F"	//	Basic Latin
-				"antialias" "1"
-				"additive"	"0"
-			}
-		}
-		"L4D_Icons_xlarge"
-		{
-			"1"
-			{
-				"name"		"jeffrey"
-				"tall"		"12"
-				"weight"	"0"
-				"range"		"0x0000 0x007F"	//	Basic Latin
-				"antialias" "1"
-				"additive"	"0"
-			}
-		}
-		"L4D_Icons_tiny"
-		{
-			"1"
-			{
-				"name"		"jeffrey"
-				"tall"		"7"
-				"weight"	"0"
 				"range"		"0x0000 0x007F"	//	Basic Latin
 				"antialias" "1"
 				"additive"	"0"

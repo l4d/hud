@@ -12,9 +12,9 @@
 		"ypos"					"c-50"
 		"wide"					"100"
 		"tall"					"100"
-		"font"					"xhair16" //tut2
-		"labeltext"				"4" //tut3
-		"fgcolor_override" 		"138 182 220 255" //tut1
+		"font"					"xhair10" //tut2
+		"labeltext"				"1" //tut3
+		"fgcolor_override" 		"255 255 255 255" //tut1
 		"textalignment" 		"center"
 		"zpos"		"12"
 	}
@@ -543,10 +543,10 @@
 		"fieldName" "HudCloseCaption"
 		"visible"	"1"
 		"enabled"	"1"
-		"xpos"		"c-50"
+		"xpos"		"c-150"
 		"ypos"		"r220"	[$WIN32]
 		"ypos"		"r230"	[$X360]
-		"wide"		"100"
+		"wide"		"300"
 		"tall"		"135"
 		"usetitlesafe"	"1"
 
@@ -710,8 +710,8 @@
 		"fieldName" "HudVoiceSelfStatus"
 		"visible" "1"
 		"enabled" "1"
-		"xpos" "r125"
-		"ypos" "r58"
+		"xpos" "c140"
+		"ypos" "c175"
 		"wide" "24"
 		"tall" "24"
 
@@ -900,7 +900,7 @@
 		"usetitlesafe"	"1"
 
 		"xpos"		"c-226"
-		"ypos"		"c182"
+		"ypos"		"c162"
 		"wide"		"350"
 		"tall"		"150"
 
