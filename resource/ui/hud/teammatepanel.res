@@ -84,7 +84,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"Dead"
 		"xpos"			"23"
-		"ypos"			"-24"
+		"ypos"			"16"
 		"wide"			"56"
 		"tall"			"56"
 		"visible"		"1"
