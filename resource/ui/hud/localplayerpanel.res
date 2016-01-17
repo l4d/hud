@@ -14,7 +14,7 @@
 		"image"			"hud/healthbar_bg_4"
 		"zpos"			"-3"
 				"PaintBackgroundType" "4"
-		"bgcolor_override" "0 0 0 220"
+		"bgcolor_override" "0 0 0 240"
 	}
 	"Name"
 	{

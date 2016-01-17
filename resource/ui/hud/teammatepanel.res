@@ -14,7 +14,7 @@
 		"scaleImage"	"1"
 		"image"			"hud/healthbar_bg_1"
 				"PaintBackgroundType" "4"
-		"bgcolor_override" "0 0 0 120"
+		"bgcolor_override" "0 0 0 160"
 
 	}
 
@@ -121,7 +121,6 @@
 		"textAlignment"	"center"
 		"font"			"PlayerDisplayName"
 		"zpos"			"1"
-
 	}
 
 	"Name"
