@@ -435,15 +435,15 @@ event ResetChatPosition
 event StartItemPickup1
 {
 	// fade in over 0.3 seconds
-	Animate image1 Alpha 0 Linear 0.0 0.001
+	Animate image1 Alpha 255 Linear 0.0 0.001
 	Animate image1 Alpha 255 Linear 0.001 0.3
 
 	// move into final position
-	Animate image1 Position "c0 c0" Linear 0.0 0.001
-	Animate image1 Position "c168 c20" Linear 0.001 0.2
+	Animate image1 Position "c183 c5" Linear 0.0 0.001
+	Animate image1 Position "c183 c20" Linear 0.001 0.2
 
 	// start moving towards the weapon selection
-	Animate image1 Position "c189 c202" Linear 1.5 0.5
+	Animate image1 Position "c183 c202" Linear 1.5 0.5
 
 	// fade out
 	Animate image1 Alpha 0 Accel 1.6 0.3
@@ -456,11 +456,11 @@ event StartItemPickup2
 	Animate image2 Alpha 255 Linear 0.001 0.3
 
 	// move into final position
-	Animate image2 Position "c0 c0" Linear 0.0 0.001
-	Animate image2 Position "c146 c20" Linear 0.001 0.2
+	Animate image2 Position "c183 c5" Linear 0.0 0.001
+	Animate image2 Position "c183 c50" Linear 0.001 0.2
 
 	// start moving towards the weapon selection
-	Animate image2 Position "c189 c202" Linear 1.5 0.5
+	Animate image2 Position "c183 c202" Linear 1.5 0.5
 
 	// fade out
 	Animate image2 Alpha 0 Accel 1.6 0.3
@@ -473,11 +473,11 @@ event StartItemPickup3
 	Animate image3 Alpha 255 Linear 0.001 0.3
 
 	// move into final position
-	Animate image3 Position "c0 c0" Linear 0.0 0.001
-	Animate image3 Position "c190 c20" Linear 0.001 0.2
+	Animate image3 Position "c183 c5" Linear 0.0 0.001
+	Animate image3 Position "c183 c80" Linear 0.001 0.2
 
 	// start moving towards the weapon selection
-	Animate image3 Position "c189 c202" Linear 1.5 0.5
+	Animate image3 Position "c183 c202" Linear 1.5 0.5
 
 	// fade out
 	Animate image3 Alpha 0 Accel 1.6 0.3
