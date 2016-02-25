@@ -12,4 +12,4 @@ If you want to notify me of an issue, need help, or want to provide feedback, pl
 
 <sub>[L4D Hidden Console Variables Guide](http://steamcommunity.com/sharedfiles/filedetails/?id=564185677)</sub>
 
-<sub>[L4D Translucent ViewModels Repo](https://github.com/l4d/trans_vmodels)</sub>
+<sub>[L4D Translucent Viewmodels Repo](https://github.com/l4d/trans_vmodels)</sub>
