@@ -9,7 +9,11 @@ This is a custom heads-up display for the original Left 4 Dead game. This is a w
 
 If you want to notify me of an issue, need help, or want to provide feedback, please create an [issue thread](https://github.com/l4d/hud/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen%3Aclosed).  
 
+[L4D FPS Boost Guide]
+(http://steamcommunity.com/sharedfiles/filedetails/?id=652707353)
 
-[L4D Hidden Console Variables Guide](http://steamcommunity.com/sharedfiles/filedetails/?id=564185677)
+[L4D Hidden Console Variables Guide]
+(http://steamcommunity.com/sharedfiles/filedetails/?id=564185677) 
 
-[L4D Translucent Viewmodels Repo](https://github.com/l4d/trans_vmodels)
+[L4D Translucent Viewmodels Repo]
+(https://github.com/l4d/trans_vmodels)
