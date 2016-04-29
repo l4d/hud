@@ -559,6 +559,258 @@ Scheme
 				"additive"	"0"
 			}
 		}
+		"xhair21"
+		{
+			"1"
+			{
+				"name"		"jeffrey"
+				"tall"		"21"
+				"weight"	"400"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		"xhair22"
+		{
+			"1"
+			{
+				"name"		"jeffrey"
+				"tall"		"22"
+				"weight"	"400"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		"xhair23"
+		{
+			"1"
+			{
+				"name"		"jeffrey"
+				"tall"		"23"
+				"weight"	"400"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		"xhair24"
+		{
+			"1"
+			{
+				"name"		"jeffrey"
+				"tall"		"24"
+				"weight"	"400"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		"xhair25"
+		{
+			"1"
+			{
+				"name"		"jeffrey"
+				"tall"		"25"
+				"weight"	"400"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		"xhair26"
+		{
+			"1"
+			{
+				"name"		"jeffrey"
+				"tall"		"26"
+				"weight"	"400"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		"xhair27"
+		{
+			"1"
+			{
+				"name"		"jeffrey"
+				"tall"		"27"
+				"weight"	"400"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		"xhair28"
+		{
+			"1"
+			{
+				"name"		"jeffrey"
+				"tall"		"28"
+				"weight"	"400"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		"xhair29"
+		{
+			"1"
+			{
+				"name"		"jeffrey"
+				"tall"		"29"
+				"weight"	"400"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		"xhair30"
+		{
+			"1"
+			{
+				"name"		"jeffrey"
+				"tall"		"30"
+				"weight"	"400"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		"xhair31"
+		{
+			"1"
+			{
+				"name"		"jeffrey"
+				"tall"		"31"
+				"weight"	"400"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		"xhair32"
+		{
+			"1"
+			{
+				"name"		"jeffrey"
+				"tall"		"32"
+				"weight"	"400"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		"xhair33"
+		{
+			"1"
+			{
+				"name"		"jeffrey"
+				"tall"		"33"
+				"weight"	"400"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		"xhair34"
+		{
+			"1"
+			{
+				"name"		"jeffrey"
+				"tall"		"34"
+				"weight"	"400"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		"xhair34"
+		{
+			"1"
+			{
+				"name"		"jeffrey"
+				"tall"		"34"
+				"weight"	"400"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		"xhair35"
+		{
+			"1"
+			{
+				"name"		"jeffrey"
+				"tall"		"35"
+				"weight"	"400"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		"xhair36"
+		{
+			"1"
+			{
+				"name"		"jeffrey"
+				"tall"		"36"
+				"weight"	"400"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		"xhair37"
+		{
+			"1"
+			{
+				"name"		"jeffrey"
+				"tall"		"37"
+				"weight"	"400"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		"xhair38"
+		{
+			"1"
+			{
+				"name"		"jeffrey"
+				"tall"		"38"
+				"weight"	"400"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		"xhair39"
+		{
+			"1"
+			{
+				"name"		"jeffrey"
+				"tall"		"39"
+				"weight"	"400"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
+		"xhair40"
+		{
+			"1"
+			{
+				"name"		"jeffrey"
+				"tall"		"40"
+				"weight"	"400"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+				"antialias" "1"
+				"additive"	"0"
+			}
+		}
 		"Default"
 		{
 			"1"
