@@ -2,7 +2,7 @@ Modified HUD
 ------------------
 **This is no longer being worked on.**
 
-**[Download & Installation](https://github.com/l4d/hud/wiki/Installation)                    [Screenshots](https://github.com/l4d/hud/wiki/Screenshots)                    [Customization](https://github.com/l4d/hud/wiki/Customization)          [Update Notes](https://github.com/l4d/hud/wiki/Update-Notes)          [Issues](https://github.com/l4d/hud/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen%3Bclosed)**
+**[Download & Installation](https://github.com/l4d/hud/wiki/Installation)          [Screenshots](https://github.com/l4d/hud/wiki/Screenshots)          [Customization](https://github.com/l4d/hud/wiki/Customization)          [Update Notes](https://github.com/l4d/hud/wiki/Update-Notes)          [Issues](https://github.com/l4d/hud/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen%3Bclosed)**
 
 Related L4D Stuff
 ------------------
